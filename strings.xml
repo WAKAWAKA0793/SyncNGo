@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SyncNGo</string>
+    <string name="server_client_id">1069557300191-ohcs8s8guvoltr9fmd6lc4sgaavbig2e.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1562962645127772</string>          <!-- your real FB app id -->
+    <string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>   <!-- optional but recommended -->
+    <string name="fb_login_protocol_scheme">fb123456789012345</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
